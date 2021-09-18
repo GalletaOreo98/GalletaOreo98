@@ -1,7 +1,7 @@
 <body style="font-family: monospace;">
-    <h1 align="center">Hi, I'm Christopher</h1>
+    <h1 align="center">Hi! o((>ω< ))o</h1>
     <img 
-    src="https://i.pinimg.com/originals/e5/a2/09/e5a209287890cc824df596a9f19c9dd0.jpg"
+    src="https://i.pinimg.com/564x/0b/b3/3b/0bb33ba2252bbf9844d33d9f726eabdc.jpg"
     align="right"
     width="400"
     >
