@@ -17,7 +17,7 @@ if(uWantToTextMe) Telegram.sendMessage("https://t.me/GalletaOreo98");
 ```
 
 <p align="center">
-  <a href="https://ko-fi.com/or3odev"> <img width="565" height="518" src="https://github.com/user-attachments/assets/85c92b90-10c2-49f1-946b-f029cdcf923f"/> </a>
+  <a href="https://pin.it/6gPIgIbOb"> <img width="565" height="518" src="https://github.com/user-attachments/assets/85c92b90-10c2-49f1-946b-f029cdcf923f"/> </a>
 </p>
 
 
